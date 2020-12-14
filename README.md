@@ -1,9 +1,5 @@
 # Face recognizing
-This app takes pics from "sample" folder, 
-
-searches the faces, 
-
-resizes and saves into the "resized" folder.
+This app takes pics from "sample" folder, searches the faces, resizes and saves into the "resized" folder.
 
 Haarcascades for face recognizing are not perfect, but work fine for the rhight pics  
 Also You can play with coeffs to get better results.
